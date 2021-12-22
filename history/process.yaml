@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE01ISSM-RID16-07-NUTNRB000-recovered_inst-nutnr_b_dark_instrument_recovered
 data_stream: CE01ISSM-RID16-07-NUTNRB000-recovered_inst-nutnr_b_dark_instrument_recovered
 end_date: '2016-05-10T15:00:31.000Z'
-last_updated: '2021-10-06T01:40:32.392472'
+last_updated: '2021-12-22T03:42:19.812301Z'
 start_date: '2014-10-10T18:00:31.000Z'
-status: success
+status: pending
